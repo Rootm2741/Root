@@ -1,0 +1,32 @@
+h1 {
+    color:skyblue;
+    font-size: 40px;
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+#btn {padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: lightgrey;
+    color: black;
+}
+#text {
+    margin-top: 20px;
+    font-size: 18px;
+    color: gray;
+    text-align: center;
+}
+.main-nav {
+    background-color: #e9e332;
+    padding: 16px 24px;
+}
+.main-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 24px;
+}
